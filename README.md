@@ -63,8 +63,6 @@ https://www.google.com/android/uncertified/
 
 安卓的设置 -> 账号 -> 添加账号, 登录输入密码一气呵成. YouTube也能正常自动登录了
 
-以上来源：kongkongyzt
-
 
 也有朋友“bootless”提供了下面的经验：
 
