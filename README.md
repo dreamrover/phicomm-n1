@@ -71,3 +71,8 @@ https://www.google.com/android/uncertified/
 2、网站登记ID后需要一段时间才能注册过去，一开始注册后咋鼓捣也不行，结果第二天晚上就过去了；
 
 3、N1可以不恢复出厂不停用Goog1e服务和商店，但添加账户前必须清空缓存。
+
+## Armbian下载地址
+https://yadi.sk/d/pHxaRAs-tZiei
+
+https://mega.nz/folder/j9QSDQSQ#6WpasOlbZYIInfw6yo4phQ
